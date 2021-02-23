@@ -1,0 +1,6 @@
+server.port=9995
+spring.application.name=ORDER-SERVICE
+eureka.instance.instance-id=${spring.application.name}:${random.value}
+eureka.client.register-with-eureka=true
+eureka.client.fetch-registry=true
+eureka.client.service-url.default-zone=http://localhoast:8761/eureka

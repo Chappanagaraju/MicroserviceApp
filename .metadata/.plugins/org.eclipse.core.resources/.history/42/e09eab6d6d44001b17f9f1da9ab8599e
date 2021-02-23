@@ -1,0 +1,5 @@
+package com.springboot.microservice.controller;
+
+public class StudentProvider {
+
+}

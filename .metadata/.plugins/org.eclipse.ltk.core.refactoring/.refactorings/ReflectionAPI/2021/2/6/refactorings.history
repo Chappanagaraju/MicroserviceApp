@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;com.springboot.ReflectionAPI&apos; to &apos;com.nag.ReflectionAPI&apos;&#x0D;&#x0A;- Original project: &apos;ReflectionAPI&apos;&#x0D;&#x0A;- Original element: &apos;ReflectionAPI/src/main/java/com.springboot.ReflectionAPI&apos;&#x0D;&#x0A;- Renamed element: &apos;ReflectionAPI/src/main/java/com.nag.ReflectionAPI&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;com.springboot.ReflectionAPI&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.springboot.ReflectionAPI" name="com.nag.ReflectionAPI" qualified="false" references="true" stamp="1612614498024" textual="false" version="1.0"/>
+</session>

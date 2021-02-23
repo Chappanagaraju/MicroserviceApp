@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: account-service
+  cloud:
+    config:
+      uri: http://config:9090 
+      fail-fast: true
+      password: ${CONFIG_SRVICE_PASSWORD}
+      username: user
